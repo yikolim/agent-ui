@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: terminal-chat
+Version: 0.1.0
+Summary: Terminal Chat Application
+Requires-Python: >=3.8
+Requires-Dist: types-tabulate
+Requires-Dist: types-docker
+Requires-Dist: azure-identity
+Requires-Dist: docker

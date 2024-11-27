@@ -1,0 +1,9 @@
+pyproject.toml
+src/api/__init__.py
+src/api/auth_config.py
+src/api/server.py
+src/terminal_chat.egg-info/PKG-INFO
+src/terminal_chat.egg-info/SOURCES.txt
+src/terminal_chat.egg-info/dependency_links.txt
+src/terminal_chat.egg-info/requires.txt
+src/terminal_chat.egg-info/top_level.txt

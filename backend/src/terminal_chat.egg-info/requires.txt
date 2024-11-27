@@ -1,0 +1,4 @@
+types-tabulate
+types-docker
+azure-identity
+docker
